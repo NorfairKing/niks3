@@ -1,0 +1,1 @@
+{ dependency-discovery.enable = false; }
